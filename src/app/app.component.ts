@@ -13,7 +13,7 @@ export class AppComponent implements DoCheck {
     {
       id: 1,
       name: 'Iphone 11',
-      description: 'Điện thoại xịn',
+      description: 'Apple',
       image: '/assets/ip11.jpg',
       price: 799.99,
       quantity: 2,
@@ -21,7 +21,7 @@ export class AppComponent implements DoCheck {
     {
       id: 2,
       name: 'Airpod',
-      description: 'Nghe mát cái lỗ tai',
+      description: 'Apple',
       image: '/assets/airpods.jpg',
       price: 29.99,
       quantity: 10,
